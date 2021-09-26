@@ -1,4 +1,4 @@
-﻿package numberparser.number.phrase;
+package numberparser.number.phrase;
 
 import java.util.Properties;
 

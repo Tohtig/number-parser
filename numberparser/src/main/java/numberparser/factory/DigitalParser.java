@@ -1,4 +1,4 @@
-﻿package numberparser.factory;
+package numberparser.factory;
 
 import numberparser.number.digits.DNumber;
 import numberparser.number.exceptions.NumberPartException;

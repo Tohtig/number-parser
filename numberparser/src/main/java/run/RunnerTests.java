@@ -1,4 +1,4 @@
-﻿package run;
+package run;
 
 import numberparser.ParserSelector;
 import numberparser.factory.Parser;
@@ -8,7 +8,7 @@ public class RunnerTests {
 // покрыть код приличными тестами
 	public static void main(String[] args) {
 		String number1 = "8";
-		String number2 = "-20000000300000";
+		String number2 = "102000";
 		String phrase = "минус восемь";
 		Parser ipr = ParserSelector.getWanted(ParserSelector.DIGITS_TO_PHRASE);
 		

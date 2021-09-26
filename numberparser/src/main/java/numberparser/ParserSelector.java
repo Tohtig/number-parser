@@ -1,4 +1,4 @@
-﻿package numberparser;
+package numberparser;
 
 import numberparser.factory.DigitalParser;
 import numberparser.factory.Parser;

@@ -1,4 +1,4 @@
-﻿package numberparser.number.digits;
+package numberparser.number.digits;
 
 import java.util.Properties;
 

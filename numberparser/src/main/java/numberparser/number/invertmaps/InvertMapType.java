@@ -1,4 +1,4 @@
-﻿package numberparser.number.invertmaps;
+package numberparser.number.invertmaps;
 
 public enum InvertMapType {
 	DIGITAL_EXPONENTA,

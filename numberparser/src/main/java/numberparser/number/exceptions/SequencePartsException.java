@@ -1,4 +1,4 @@
-﻿package numberparser.number.exceptions;
+package numberparser.number.exceptions;
 
 @SuppressWarnings("serial")
 public class SequencePartsException extends Exception {

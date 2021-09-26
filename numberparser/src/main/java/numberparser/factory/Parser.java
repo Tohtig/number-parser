@@ -1,4 +1,4 @@
-﻿package numberparser.factory;
+package numberparser.factory;
 
 public interface Parser {
 	String invert(String arg);

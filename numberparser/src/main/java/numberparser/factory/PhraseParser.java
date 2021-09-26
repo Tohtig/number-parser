@@ -1,4 +1,4 @@
-﻿package numberparser.factory;
+package numberparser.factory;
 
 import numberparser.number.exceptions.MantissaVolumeException;
 import numberparser.number.exceptions.NumberPartException;

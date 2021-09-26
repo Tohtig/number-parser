@@ -1,4 +1,4 @@
-﻿package numberparser.number.invertmaps;
+package numberparser.number.invertmaps;
 
 import java.io.IOException;
 import java.io.InputStream;
